@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=API_Requests
+project.version=8.10
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2023.1.1
+project.is-open-test-settings-after-upload=false
+project.id=79e8549b-ee58-44e8-859a-a28e819fcd35
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/keithlefrancois/bugbyte.git
